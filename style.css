@@ -82,14 +82,14 @@ a {
 /* showcase */
 
 .showcase {
-    padding-top: 3.1rem;
-    min-width: 90vw;
+    padding-top: 3.3rem;
+    min-width: 95vw;
     background-color: #dbdada;
     height: auto;
 }
 
 .showcase .container {
-    min-height: 50vh;
+    min-height: 55vh;
     padding: 2.0rem;
     display: flex;
     flex-direction: row;
