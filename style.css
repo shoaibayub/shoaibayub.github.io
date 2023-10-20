@@ -97,7 +97,7 @@ a {
 }
 
 .showcase .img-left {
-    max-width: 40%;
+    max-width: 60%;
 }
 
 .showcase .info-right {
@@ -111,18 +111,12 @@ a {
 
 .showcase .img-left img {
     width: 300px;
-    height: 300;
+    height: 300px;
     border-radius: 50%;
 
 }
 
-.showcase .img-right img {
-    width: 300px;
-    height: 300px;
-    border: 1px solid transparent;
-    border-radius: 300px;
 
-}
 
 .showcase-social {
     display: flex;
